@@ -3,7 +3,7 @@ Dans ce projet, nous avons construit un réseau neuronal de convolution à Keras
 
 CIFAR-10 est un dataset de vision par ordinateur très populaire. Ce dataset est bien étudié dans de nombreux types de recherche de deep learning pour la reconnaissance d’objets.
 
-Cet ensemble de données se compose de 60 000 images divisées en 10 classes cibles, chaque catégorie contenant 6 000 images de forme 32*32. Cet ensemble de données contient des images de basse résolution (32*32), Les 10 classes différentes de cet ensemble de données sont :
+Cet ensemble de données se compose de 60 000 images divisées en 10 classes cibles, chaque catégorie contenant 6 000 images de forme 32X32. Cet ensemble de données contient des images de basse résolution (32X32), Les 10 classes différentes de cet ensemble de données sont :
 1- Avion
 2- Voiture
 3- Oiseau
